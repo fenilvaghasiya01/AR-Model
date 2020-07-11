@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="xphoto" size="10.000000 14.994233" />
+    <ImageTarget name="qphoto" size="10.000000 7.505556" />
+    <ImageTarget name="nphoto" size="10.000000 6.662500" />
+    <ImageTarget name="w2photo" size="10.000000 5.610390" />
+    <ImageTarget name="v1photo" size="10.000000 6.654545" />
+    <ImageTarget name="zphoto" size="10.000000 6.669922" />
+    <ImageTarget name="yphoto" size="10.000000 10.000000" />
+    <ImageTarget name="u1photo" size="10.000000 9.310000" />
+    <ImageTarget name="tphoto" size="10.000000 6.653333" />
+    <ImageTarget name="sphoto" size="10.000000 5.625000" />
+    <ImageTarget name="rphoto" size="10.000000 5.934156" />
+    <ImageTarget name="pphoto" size="10.000000 10.000000" />
+    <ImageTarget name="orangephoto" size="10.000000 7.956044" />
+    <ImageTarget name="monkeyphoto" size="10.000000 5.631068" />
+    <ImageTarget name="lphoto" size="10.000000 6.000000" />
+    <ImageTarget name="kphoto" size="10.000000 6.666667" />
+    <ImageTarget name="jphoto" size="10.000000 10.000000" />
+    <ImageTarget name="iphoto" size="10.000000 10.000000" />
+    <ImageTarget name="hphoto" size="10.000000 5.625000" />
+    <ImageTarget name="gphoto" size="10.000000 5.228891" />
+    <ImageTarget name="foxphoto" size="10.000000 6.250000" />
+    <ImageTarget name="ephoto" size="10.000000 5.625000" />
+    <ImageTarget name="dogphoto" size="10.000000 7.500000" />
+    <ImageTarget name="49376-desktop-wallpaper-download-hd-cat" size="10.000000 5.625000" />
+    <ImageTarget name="bphoto" size="10.000000 9.771635" />
+  </Tracking>
+</QCARConfig>
